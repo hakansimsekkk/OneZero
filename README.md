@@ -1,1 +1,1 @@
-# OneZero
+Visual Studio içerisinde epplus_test dosyasını açarak projeyi çalıştırabilirsiniz
